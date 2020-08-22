@@ -3,6 +3,6 @@
 
 # Comandos Importantes
 
-- Gerar Chave SHA do APP para o Firebase
-    - cd android
-    - ./gradlew signingReport
+- Configure Firebase
+    - https://fireship.io/snippets/install-flutterfire/
+    
