@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 
 class TextComposer extends StatefulWidget {
+  TextComposer(this.sendMessege);
+  Function(String) sendMessege;
+
   @override
   _TextComposerState createState() => _TextComposerState();
 }
